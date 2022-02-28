@@ -1,4 +1,4 @@
-Cosmos Swap
+Atom Swap
 ===========
 
 Swap any two tokens on the [Cosmos network](cosmos.network)
@@ -21,8 +21,6 @@ Setup a local server
 ```bash
 make start
 ```
-
-See [test](https://github.com/jpthor/cosmos-swap/blob/master/scripts/test.sh) and [demo](https://github.com/jpthor/cosmos-swap/blob/master/scripts/demo.sh) scripts for how to use the API
 
 ### Test
 Run tests
